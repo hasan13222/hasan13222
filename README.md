@@ -40,8 +40,8 @@
 
 <br />
 <p align="center">
-  <img align="left" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasan13222&theme=maroongold" />
-  <img align="right" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasan13222&theme=maroongold&utcOffset=8" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasan13222&theme=maroongold" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasan13222&theme=maroongold&utcOffset=8" />
 </p>
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=hasan13222&theme=highcontrast&background=A8673C" />
