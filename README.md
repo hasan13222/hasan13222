@@ -14,16 +14,16 @@
 
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/icons/HTML.png"/>
-<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/icons/css.png"/>
-<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/icons/JavaScript.png"/>
+<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/HTML.png"/>
+<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/css.png"/>
+<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/JavaScript.png"/>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/icons/react.png"/>
-<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/icons/sass.png"/>
-<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/icons/tailwind.png"/>
-<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/icons/Bootsrap.png"/>
-<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/icons/firebase.png"/>
+<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/react.png"/>
+<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/sass.png"/>
+<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/tailwind.png"/>
+<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/Bootsrap.png"/>
+<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/firebase.png"/>
 </p><br/>
 
 
