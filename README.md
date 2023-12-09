@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/jamil-butex42">
-<img height="300" src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/cover.png" />
+<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/cover.png" />
 </a>
 
 
