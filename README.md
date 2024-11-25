@@ -5,8 +5,8 @@
 
 ## Current Overview
 
-- 🔭 I’m currently working on React Front End
-- 🌱 I’m currently learning MongoDB expressJS
+- 🔭 I’m currently working on Full Stack both MERT and PERN
+- 🌱 I’m currently learning Unit Testing
 - 💬 Ask me about HTML, CSS, JavaScript, React and Next
 - ⚡ Fun fact: I love to solve real life problems with programming
 
@@ -20,11 +20,18 @@
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/react.png"/>
-<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/sass.png"/>
+<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/nextjs.png"/>
 <img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/tailwind.png"/>
 <img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/Bootsrap.png"/>
-<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/firebase.png"/>
-</p><br/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/nodejs.png"/>
+<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/mongodb.png"/>
+<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/postgresql.png"/>
+<img src="https://raw.githubusercontent.com/hasan13222/hasan13222/main/images/prisma.png"/>
+</p>
+<br/>
 
 
 ## Reach me out
